@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DeepLearning algorithms and Java Plugin Development**
 
-- 📫 How to reach me **oozcan27@my.aci.tr**
+- 📫 How to reach me **oozcan27@my.aci.k12.tr**
 
 - ⚡ Fun fact **I hate to code frontend and respect who does like it.**
 
